@@ -12,11 +12,9 @@ import { Routes } from 'react-router'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
     <BrowserRouter>
-      <Routes>
-
+    
         <Home />
 
-      </Routes>
     </BrowserRouter>
   </StrictMode>
 )
